@@ -9,8 +9,6 @@
 - [Jim Hatley] (https: //github.com/jhatley75)
 - [coinZee/Nick] (https://github.com/coinZee)
 - [Kyuhong Han] (https://github.com/roy0424)
-- [Sidhardh Joe] (https://github.com/SidhardhJoe)
-
 - [Max Brener] (https://github.com/MaxBR97)
 - [Usaid Aqeel] (https://github.com/UsaidAqeel)
 - [Anthony Squire] (https://github.com/Squire-A)
